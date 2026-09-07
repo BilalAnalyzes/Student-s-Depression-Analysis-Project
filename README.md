@@ -1,11 +1,5 @@
 # Student Depression Analysis
 
-**Author:** Bilal Ahmed  
-**Project Type:** Data Analytics & Data Visualization  
-**Tools:** SQL Server, Tableau
-
----
-
 ## Project Overview
 
 **Student Depression Analysis** is a data analytics project focused on exploring different factors associated with depression among students.
@@ -187,37 +181,6 @@ The dashboard allows users to:
 The dashboard provides a visual and interactive way to explore the dataset rather than relying only on raw numerical data.
 
 ---
-
-# Project Workflow
-
-```text
-Raw Student Dataset
-        ↓
-SQL Server
-        ↓
-Data Cleaning
-        ↓
-Data Standardization
-        ↓
-Data Transformation
-        ↓
-Derived Columns
-        ↓
-Data Distribution Checks
-        ↓
-Cleaned Dataset
-        ↓
-Tableau
-        ↓
-Visualizations
-        ↓
-Interactive Dashboard
-        ↓
-Depression Factor Analysis
-```
-
----
-
 # Key Insights
 
 The analysis provides an overview of how different student-related factors vary across depression status.
@@ -237,28 +200,6 @@ The dashboard makes it possible to compare student counts based on:
 
 These comparisons help identify patterns and relationships within the dataset that can be further explored through data analysis.
 
-**Important:** The findings represent patterns and associations present in the dataset. They should not be interpreted as proof that a particular factor directly causes depression.
-
----
-
-# Skills Demonstrated
-
-This project demonstrates practical skills in:
-
-- SQL Data Cleaning
-- SQL Data Transformation
-- Data Standardization
-- Data Validation
-- Data Preparation
-- Exploratory Data Analysis
-- Data Visualization
-- Tableau Dashboard Development
-- Comparative Analysis
-- Data Interpretation
-- Dashboard Design
-
----
-
 # Tools & Technologies
 
 | Tool | Purpose |
@@ -267,34 +208,7 @@ This project demonstrates practical skills in:
 | **Tableau** | Data visualization and dashboard development |
 | **SQL** | Data manipulation and analysis |
 
----
-
-# Project Files
-
-```text
-Student-Depression-Analysis/
-│
-├── Data Transformation.sql
-├── Student Depression Analysis.twbx
-└── README.md
-```
-
-> The SQL file contains the data cleaning and transformation queries, while the Tableau workbook/dashboard contains the visual analysis.
-
----
-
-# Conclusion
-
-The **Student Depression Analysis** project demonstrates an end-to-end data analytics workflow, starting with raw data and ending with an interactive visualization dashboard.
-
-SQL Server was used to clean, standardize, transform, and prepare the dataset, while Tableau was used to create visualizations and compare different factors associated with student depression.
-
-By combining SQL and Tableau, the project demonstrates how raw data can be transformed into meaningful visual insights that make complex information easier to understand and analyze.
-
----
-
 ## Author
 
-**Bilal Ahmed**
+**Syed Bilal Ahmed**
 
-Data Analytics | SQL | Tableau | Power BI | Excel
